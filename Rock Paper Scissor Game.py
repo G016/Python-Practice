@@ -42,9 +42,7 @@ Press 0 for Exit
                     print("Computer Choose",comp_choice)
                     print("You Lose")
                     compcount+=1
-                    
           print("\n")
-
           if usercount == compcount:
               print("Hence, The Game Is Draw...")
               print("Your Score",usercount)
